@@ -196,25 +196,7 @@ CAN Baud Rate Config (C2BTR = 0x001C001D):
 I'm always open to collaborating on **Embedded Systems** or **Firmware**. Feel free to reach out!
 
 ⭐ If you found this interesting, consider giving it a star!
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ijaidevpandya)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandya99jaidev@gmail.com)
-</div>
-
-<p align="center">
-
-![Release](https://img.shields.io/github/v/release/jaidev-11/Realtime-Digital-Automotive-Instrument-Cluster-with-CAN-protocol?include_prereleases)
-![License](https://img.shields.io/github/license/jaidev-11/Realtime-Digital-Automotive-Instrument-Cluster-with-CAN-protocol)
-![GitHub Stars](https://img.shields.io/github/stars/jaidev-11/Realtime-Digital-Automotive-Instrument-Cluster-with-CAN-protocol)
-[![Forks](https://img.shields.io/github/forks/jaidev-11/Realtime-Digital-Automotive-Instrument-Cluster-with-CAN-protocol)](https://github.com/jaidev-11/Realtime-Digital-Automotive-Instrument-Cluster-with-CAN-protocol/network/members)
-![Issues](https://img.shields.io/github/issues/jaidev-11/Realtime-Digital-Automotive-Instrument-Cluster-with-CAN-protocol)
-![Pull Requests](https://img.shields.io/github/issues-pr/jaidev-11/Realtime-Digital-Automotive-Instrument-Cluster-with-CAN-protocol)
-![Last Commit](https://img.shields.io/github/last-commit/jaidev-11/Realtime-Digital-Automotive-Instrument-Cluster-with-CAN-protocol)
-![Repo Size](https://img.shields.io/github/repo-size/jaidev-11/Realtime-Digital-Automotive-Instrument-Cluster-with-CAN-protocol)
-![Language](https://img.shields.io/github/languages/top/jaidev-11/Realtime-Digital-Automotive-Instrument-Cluster-with-CAN-protocol)
-
-</p>
 
 ---------------------------------------------------------------------------------
 ## 👨🏽‍🚀Author
