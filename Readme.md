@@ -204,15 +204,15 @@ I'm always open to collaborating on **Embedded Systems** or **Firmware**. Feel f
 
 <p align="center">
 
-![Release](https://img.shields.io/github/v/release/jaidev-11/ARM-based-Reverse-Parking-Assistance-System-using-CAN-Protocol?include_prereleases)
-![License](https://img.shields.io/github/license/jaidev-11/ARM-based-Reverse-Parking-Assistance-System-using-CAN-Protocol)
-![GitHub Stars](https://img.shields.io/github/stars/jaidev-11/ARM-based-Reverse-Parking-Assistance-System-using-CAN-Protocol)
-[![Forks](https://img.shields.io/github/forks/jaidev-11/ARM-based-Reverse-Parking-Assistance-System-using-CAN-Protocol)](https://github.com/jaidev-11/ARM-based-Reverse-Parking-Assistance-System-using-CAN-Protocol/network/members)
-![Issues](https://img.shields.io/github/issues/jaidev-11/ARM-based-Reverse-Parking-Assistance-System-using-CAN-Protocol)
-![Pull Requests](https://img.shields.io/github/issues-pr/jaidev-11/ARM-based-Reverse-Parking-Assistance-System-using-CAN-Protocol)
-![Last Commit](https://img.shields.io/github/last-commit/jaidev-11/ARM-based-Reverse-Parking-Assistance-System-using-CAN-Protocol)
-![Repo Size](https://img.shields.io/github/repo-size/jaidev-11/ARM-based-Reverse-Parking-Assistance-System-using-CAN-Protocol)
-![Language](https://img.shields.io/github/languages/top/jaidev-11/ARM-based-Reverse-Parking-Assistance-System-using-CAN-Protocol)
+![Release](https://img.shields.io/github/v/release/jaidev-11/Realtime-Digital-Automotive-Instrument-Cluster-with-CAN-protocol?include_prereleases)
+![License](https://img.shields.io/github/license/jaidev-11/Realtime-Digital-Automotive-Instrument-Cluster-with-CAN-protocol)
+![GitHub Stars](https://img.shields.io/github/stars/jaidev-11/Realtime-Digital-Automotive-Instrument-Cluster-with-CAN-protocol)
+[![Forks](https://img.shields.io/github/forks/jaidev-11/Realtime-Digital-Automotive-Instrument-Cluster-with-CAN-protocol)](https://github.com/jaidev-11/Realtime-Digital-Automotive-Instrument-Cluster-with-CAN-protocol/network/members)
+![Issues](https://img.shields.io/github/issues/jaidev-11/Realtime-Digital-Automotive-Instrument-Cluster-with-CAN-protocol)
+![Pull Requests](https://img.shields.io/github/issues-pr/jaidev-11/Realtime-Digital-Automotive-Instrument-Cluster-with-CAN-protocol)
+![Last Commit](https://img.shields.io/github/last-commit/jaidev-11/Realtime-Digital-Automotive-Instrument-Cluster-with-CAN-protocol)
+![Repo Size](https://img.shields.io/github/repo-size/jaidev-11/Realtime-Digital-Automotive-Instrument-Cluster-with-CAN-protocol)
+![Language](https://img.shields.io/github/languages/top/jaidev-11/Realtime-Digital-Automotive-Instrument-Cluster-with-CAN-protocol)
 
 </p>
 
